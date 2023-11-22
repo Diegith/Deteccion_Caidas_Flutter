@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51352467131",
+    "project_id": "databasegeo-c2a29",
+    "storage_bucket": "databasegeo-c2a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51352467131:android:a149881247761a169fdb9e",
+        "android_client_info": {
+          "package_name": "com.example.final_project_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeIfGR7lvJusGPWHsc1bi5E0cI65jKDwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
